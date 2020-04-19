@@ -2,7 +2,10 @@
 title: "result_vis"
 author: "Qian Liu"
 date: "4/19/2020"
-output: html_document
+output:
+  word_document: default
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
