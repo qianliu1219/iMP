@@ -1,4 +1,4 @@
-### Codes and data 
+### COMP7944 Codes and data 
 
 ```bash
 iMP
