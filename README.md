@@ -1,4 +1,4 @@
-### COMP7944 Codes and data 
+### COMP7944 codes and data 
 
 ```bash
 iMP
@@ -30,13 +30,13 @@ iMP
 └── requirments.txt
 ```
 
-**Data-split** consists 6 txt files which indicating the name of the images used in training, valiadation, and testing steps in this study. The split is provided by the source of the [raw data](https://github.com/UCSD-AI4H/COVID-CT).
+**Data-split** consists 6 txt files which indicating the name of the images used in training, validation, and testing steps in this study. The split is provided by the source of the [raw data](https://github.com/UCSD-AI4H/COVID-CT).
 
 **Images-processed** is storing the zipped raw data.
 
 **iMP_denseNet.ipynb** is a Jupyter notebook which is embeded with some results for better visualization without actually run the code by yourself. Please note these results are just simple illustrations. The actual training had more epoches.
 
-**iMP_denseNet.py** is the main code. Several requirments are needed for running this code. And it took around 10 hours in a GPU machine.
+**iMP_denseNet.py** is the main code. Several requirments are needed for running this code. And it took around 10 hours using a GPU machine.
 
 **model_backup** is storing the model architecture and weights. *DenseNet.pt* is the baseline model. *mp_DenseNet.pt* is the proposed one.
 
