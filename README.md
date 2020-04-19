@@ -30,7 +30,7 @@ iMP
 └── requirments.txt
 ```
 
-**Data-split** consists 6 txt files which indicating the name of the images used in training, valiadation, and testing steps in this study. The split is provided by the source of the the [raw data](https://github.com/UCSD-AI4H/COVID-CT).
+**Data-split** consists 6 txt files which indicating the name of the images used in training, valiadation, and testing steps in this study. The split is provided by the source of the [raw data](https://github.com/UCSD-AI4H/COVID-CT).
 
 **Images-processed** is storing the zipped raw data.
 
