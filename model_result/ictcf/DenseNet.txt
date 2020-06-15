@@ -1,0 +1,11 @@
+
+ The epoch is 1, average recall: 0.9930, average precision: 0.7396,average F1: 0.8477, average accuracy: 0.7454, average AUC: 0.8693
+ The epoch is 2, average recall: 0.9509, average precision: 0.8295,average F1: 0.8861, average accuracy: 0.8255, average AUC: 0.9091
+ The epoch is 3, average recall: 0.9198, average precision: 0.8785,average F1: 0.8987, average accuracy: 0.8519, average AUC: 0.9254
+ The epoch is 4, average recall: 0.9178, average precision: 0.8963,average F1: 0.9069, average accuracy: 0.8655, average AUC: 0.9377
+ The epoch is 5, average recall: 0.9289, average precision: 0.9097,average F1: 0.9192, average accuracy: 0.8834, average AUC: 0.9470
+ The epoch is 6, average recall: 0.9218, average precision: 0.9228,average F1: 0.9223, average accuracy: 0.8891, average AUC: 0.9550
+ The epoch is 7, average recall: 0.9208, average precision: 0.9387,average F1: 0.9297, average accuracy: 0.9006, average AUC: 0.9625
+ The epoch is 8, average recall: 0.9309, average precision: 0.9327,average F1: 0.9318, average accuracy: 0.9027, average AUC: 0.9679
+ The epoch is 9, average recall: 0.9439, average precision: 0.9439,average F1: 0.9439, average accuracy: 0.9199, average AUC: 0.9750
+ The epoch is 10, average recall: 0.9399, average precision: 0.9640,average F1: 0.9518, average accuracy: 0.9320, average AUC: 0.9803
