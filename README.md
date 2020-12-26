@@ -1,7 +1,7 @@
 ### codes and data 
 
-```bash
-.
+'''bash
+
 ├── Data-split
 │   ├── data_split.py
 │   ├── ictcf
@@ -30,6 +30,7 @@
 │       ├── DenseNet.pt
 │       └── mp_DenseNet.pt
 ├── model_code
+│   ├── ictcf169.py
 │   ├── ictcf.py
 │   └── UCSD.py
 ├── model_result
@@ -45,23 +46,6 @@
 │       ├── result_vis.R
 │       ├── test_DenseNet.txt
 │       └── test_mp_DenseNet.txt
-├── notebook
-│   ├── ictcf.ipynb
-│   └── UCSD.ipynb
 ├── README.md
-├── requirments.txt
-└── riskscore
-    ├── ictcf
-    │   ├── risk_score_nCT.txt
-    │   ├── risk_score_pCT.txt
-    │   └── riskscore.py
-    ├── riskscore.R
-    └── UCSD
-        ├── risk_score_nCT.txt
-        ├── risk_score_pCT.txt
-        └── riskscore.py
 
-```
-
-These are the codes and results for the project using 2D matrix profile algorithm to do COVID-19 CT imaging anomaly detection. I used **Python** to implement the 2D matrix profile algorithm and to build the model. I used **R** to visualize the results and test the risk score. 
-
+'''
