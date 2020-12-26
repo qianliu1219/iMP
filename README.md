@@ -1,8 +1,6 @@
 ### codes and data 
 
-'''bash
-
-
+```bash
 
 ├── Data-split
 │   ├── data_split.py
@@ -50,6 +48,4 @@
 │       └── test_mp_DenseNet.txt
 ├── README.md
 
-
-
-'''
+```
